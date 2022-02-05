@@ -1,0 +1,24 @@
+.p{
+    width: 800px;
+    height: 500px;
+    
+
+}
+.d{
+    background-color:rgb(97, 128, 117);
+    text-align: center;
+    color: black;
+    width: 800px;
+    height: 55px;
+}
+.pa{
+    border-radius: 1px;
+    border: darkslategrey;
+    padding-left: 400px;
+    padding-top: 70px;
+}
+.n{
+    text-align: center;
+    width: 800px;
+    font-style: inherit;
+}
